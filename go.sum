@@ -1,5 +1,5 @@
-github.com/Alantoo/gtls v0.0.0-20231024092712-01193b9f0404 h1:dWtlXmHmqS7/ztuBoqqSCsA8qX5uhpu/+sg98sS+S9o=
-github.com/Alantoo/gtls v0.0.0-20231024092712-01193b9f0404/go.mod h1:fLcidMDKVv8b9NvLy0P/ZclltTaXJvTHANWiPCgDbSI=
+github.com/alantoo/gtls v0.0.0-20231024092712-01193b9f0404 h1:UyT+8mfl2nyj11SkT0DbA+Gc+qu0/e/VFGg7tAzrFGU=
+github.com/alantoo/gtls v0.0.0-20231024092712-01193b9f0404/go.mod h1:fLcidMDKVv8b9NvLy0P/ZclltTaXJvTHANWiPCgDbSI=
 github.com/andybalholm/brotli v1.0.6 h1:Yf9fFpf49Zrxb9NlQaluyE92/+X7UVHlhMNJN2sxfOI=
 github.com/andybalholm/brotli v1.0.6/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
