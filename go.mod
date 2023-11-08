@@ -60,4 +60,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/gospider007/gtls v0.0.0-20231024092712-01193b9f0404 => github.com/alantoo/gtls v0.0.0-20231024092712-01193b9f0404
+replace github.com/gospider007/gtls v0.0.0-20231024092712-01193b9f0404 => github.com/alantoo/gtls v0.0.0-20231107183657-77bccc97327d
